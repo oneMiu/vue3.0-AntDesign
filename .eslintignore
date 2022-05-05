@@ -1,0 +1,6 @@
+/dist
+/node_modules
+/mock
+/src
+/public
+/vue.config.js
